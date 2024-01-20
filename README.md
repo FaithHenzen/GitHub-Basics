@@ -6,6 +6,7 @@ Tracked State
 
 Modified State
 
+
 ''' bash
      git add <README.md>
 ''' 
@@ -14,9 +15,12 @@ Modified State
 
 Staged State
 
+
 '''bash
    git commit -m"Commit Message"
 '''
+
+
 Commited State
 
 ### What is GitHub??
